@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bg_color {
+  background-color: white;
+  padding: 12px;
+}
+
+.bg-image {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  background-size: cover;
+  height: 70vh;
+  margin: 30px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 16px;
+}
+
+p {
+  color: #334155;
+  font-weight: 500;
+}
+
+button {
+  background-color: ffffff;
+  padding: 5px;
+  border-radius: 6px;
+}
